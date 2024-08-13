@@ -32,7 +32,7 @@ This project aims to build an Intrusion Detection System (IDS) using machine lea
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, imblearn
 
 ## Usage
